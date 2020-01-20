@@ -29,5 +29,5 @@
     <li>Store data in localStorage</li>
   </ul>
 <br>
-<a href="https://vluciano8.github.io/weatherNinjaApp/">Demo</a>
+<a href="https://stan0men.github.io/weather_app/">Demo</a>
 
